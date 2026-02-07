@@ -21,8 +21,7 @@ The dataset includes a comprehensive set of employee attributes, such as:
 - Career Development: Training participation, promotion history
 - Performance Indicators: Recent performance ratings
 
-### Target Variable:
-ProductivityScore
+### Target Variable: ProductivityScore
 
 ## 🤖 Machine Learning Models Used
 
