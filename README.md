@@ -49,3 +49,10 @@ Regularized linear models performed better than more complex models for this dat
 Elastic Net provided the best balance between bias, variance, and interpretability
 Productivity is influenced by a combination of engagement, workload, and performance-related features
 The model provides actionable insights that can directly inform HR and management policies
+
+### Tech Stack
+- Python 3.12
+- scikit-learn, xgboost, numpy, pandas, matplotlib, seaborn
+
+✔️ Check out Machine Learning on this [link](https://github.com/Dcroix/EmployeeProductivity/blob/main/Employee%20Productivity%20Prediction%20Quick%20Deploy.ipynb). (right-click → Open in new tab)  
+✔️ Check out the Machine Learning Application on this [link](https://huggingface.co/spaces/Dcroix/EmployeeProductivityML). (right-click → Open in new tab)
